@@ -132,7 +132,7 @@
 
 .lista-rodape{
   display: block;
-  border-left: 1px solid var(--cinza-claro);
+  border-left: 1px solid var(--light-grey);
   padding-left: 1em;
 }
 
