@@ -1,66 +1,5 @@
-.barra-menu{
-  background-color: var(--white);
-  }
-
-.body_cadastros{
-  background-color: var(--white);
-}
-
-.barra-lateral-navegacao{
-  display: -webkit-flex;
-  display: flex;
-}
-
 .navegacao_lateral {
-  background: var(--light-grey);
-  padding: 20px;
-  -webkit-flex: 1;
-  -ms-flex: 1;
-  flex: 1;
-  padding: 20px;
   height: 85vh;
-}
-
-.navegacao_lateral ul {
-  text-align: right;
-  margin-top: 80px;
-  list-style-type: none;
-}
-
-.navegacao_lateral li{
-  padding-bottom: 30px;
-}
-
-.navegacao_lateral a{
-  text-decoration: none;
-  color: var(--black);
-  min-height: 100vh;
-}
-
-.navegacao_lateral a:hover{
-  font-weight: 700;
-  text-decoration: underline;
-}
-
-.descricao-pagina {
-  background-color: var(--white);
-  -webkit-flex: 3;
-  -ms-flex: 3;
-  flex: 3;
-  padding: 10px;
- }
-
-.descricao-pagina h1{
-  padding: 30px;
-  font-size: 20px;
-
-}
-
-.descricao-pagina p{
-  padding-left: 30px;
-  border-bottom: var(--light-grey);
-  width: 65%;
-  font-size: 14px;
 }
 
 .formulario-cadastrar-item{
@@ -68,24 +7,4 @@
 }
 .formulario-cadastrar-item label{
   font-size: 14px;
-}
-
-.input-padrao-perfil {
-  margin: 10px 0 30px;
-  padding: 8px 25px;
-  width: 40%;
-  border-radius: 15px;
-  border-color: var(--light-grey);
-}
-
-.pronto{
-  width: 10%;
-  padding: 10px;
-  background: var(--green);
-  color: white;
-  font-weight: 400;
-  font-size: 12px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
 }

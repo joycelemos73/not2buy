@@ -3,8 +3,11 @@
 @import url(03_login.css);
 @import url(04_pagina_inicial_logada.css);
 @import url(05_itens.css);
+@import url(06_carrinho.css);
 @import url(07_atualizar_dados.css);
 @import url(08_new_items.css);
+@import url(09_meus_itens_emprestados.css);
+@import url(10_devolucao.css);
 
 :root{
   --white: #ffffff;

@@ -30,7 +30,7 @@
   text-decoration: underline;
 }
 
-main{
+.tela-inicial-login{
   background-image: url(/pictures/signup-login.jpg);
   background-size: cover;
   background-blend-mode: multiply;
