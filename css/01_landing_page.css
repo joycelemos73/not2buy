@@ -31,7 +31,7 @@
 }
 
 .banner{
-  background-image: url(/pictures/banner-img.jpg);
+  background-image: url(/pictures/banner-img.png);
   background-size: cover;
   background-blend-mode: multiply;
   height: 620px;

@@ -1,8 +1,11 @@
 <?php
 
-    echo "Dados enviados via POST <br>";
 //    var_dump($_POST);
-    echo "Login: " . $_POST['email'] . "<br>";
+
+    echo "Nome completo: " . $_POST['nomecompleto'] . "<br>";
+    echo "Endereço: " .  $_POST['endereco'] . "<br>";
+    echo "CPF: " . $_POST['cpf'] . "<br>";
+    echo "Email: " .  $_POST['email'] . "<br>";
     echo "Senha: " . $_POST['senha'] . "<br>";
 
 ?>
